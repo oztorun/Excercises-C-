@@ -1,0 +1,12 @@
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\ExercisesCSharp\ExercisesCSharp\obj\Debug\ExercisesCSharp.csprojResolveAssemblyReference.cache
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\ExercisesCSharp\ExercisesCSharp\bin\Debug\ExercisesCSharp.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\ExercisesCSharp\ExercisesCSharp\bin\Debug\ExercisesCSharp.pdb
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\ExercisesCSharp\ExercisesCSharp\obj\Debug\ExercisesCSharp.exe
+C:\Users\s-otosun\Documents\Visual Studio 2012\Projects\ExercisesCSharp\ExercisesCSharp\obj\Debug\ExercisesCSharp.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\ExercisesCSharp\ExercisesCSharp\obj\Debug\ExercisesCSharp.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\ExercisesCSharp\ExercisesCSharp\obj\Debug\ExercisesCSharp.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\ExercisesCSharp\ExercisesCSharp\obj\Debug\ExercisesCSharp.csprojResolveAssemblyReference.cache
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\ExercisesCSharp\ExercisesCSharp\bin\Debug\ExercisesCSharp.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\CalculateFigure-Estaj-Pattern\ExercisesCSharp\ExercisesCSharp\bin\Debug\ExercisesCSharp.pdb
+C:\Users\Ozgur\Desktop\ExercisesCSharp\ExercisesCSharp\obj\Debug\ExercisesCSharp.exe
+C:\Users\Ozgur\Desktop\ExercisesCSharp\ExercisesCSharp\obj\Debug\ExercisesCSharp.pdb
